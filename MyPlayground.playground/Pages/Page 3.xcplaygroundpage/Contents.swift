@@ -1,7 +1,7 @@
-//: [Previous](@previous)
+//: [Page 2](@page 2)
 
 import Foundation
 
 var greeting = "Hello, Anthony"
 
-//: [Next](@next)
+//: [Next Page](@Page 4)
